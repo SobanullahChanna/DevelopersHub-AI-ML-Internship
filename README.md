@@ -30,6 +30,8 @@ To run these notebooks locally, follow these steps:
    git clone [https://github.com/SobanullahChanna/DevelopersHub-AI-ML-Internship.git](https://github.com/SobanullahChanna/DevelopersHub-AI-ML-Internship.git)
 
 **2. Install the necessary libraries:**
+```bash
 pip install -r requirements.txt
 
+```bash
 **3. Open the `.ipynb` files in VS Code or Jupyter Notebook.**
